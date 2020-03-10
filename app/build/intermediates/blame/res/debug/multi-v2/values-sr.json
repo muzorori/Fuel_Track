@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sr\\values-sr.xml",
+            "outputFile": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sr\\values-sr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\DELLL\\.gradle\\caches\\transforms-2\\files-2.1\\135242b1904c49b92ab129834373ec6d\\navigation-ui-2.2.1\\res\\values-sr\\values-sr.xml",

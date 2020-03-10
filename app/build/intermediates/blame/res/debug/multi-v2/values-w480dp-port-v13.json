@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w480dp-port-v13\\values-w480dp-port-v13.xml",
+            "outputFile": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w480dp-port-v13\\values-w480dp-port-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\DELLL\\.gradle\\caches\\transforms-2\\files-2.1\\d62b6ff75c15f51cba9b4704038ae8c8\\material-1.2.0-alpha05\\res\\values-w480dp-port-v13\\values-w480dp-port-v13.xml",

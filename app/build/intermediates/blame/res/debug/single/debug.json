@@ -1,198 +1,198 @@
 [
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_puma.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\puma.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_reload.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable\\ic_reload.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header_login.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\header_login.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brief_64px.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable\\brief_64px.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circletransparant.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\circletransparant.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\anim\\fade.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable\\circle.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_puma.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable\\puma.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gas_station_40px.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\gas_station_40px.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_total.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\total.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable\\ic_add.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_stations_list_fragment.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\layout\\stations_list_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\menu_top_menu.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\menu\\top_menu.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_local_gas_station.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable-v24\\ic_local_gas_station.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_summaries.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\layout\\summaries.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_reload.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\ic_reload.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_station.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\layout\\station.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gas_station_64px.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\gas_station_64px.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circletransparant.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable\\circletransparant.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_summary.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\layout\\fragment_summary.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_ui.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable\\bg_ui.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_summaries.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\layout\\summaries.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout_rounded_down_64px.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable\\logout_rounded_down_64px.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_fuel.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\layout\\fragment_fuel.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header_login.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable\\header_login.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_page_64px.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\home_page_64px.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_ui.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\bg_ui.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_station.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\layout\\station.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_fuel_card.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\layout\\fuel_card.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gas_station_64px.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable\\gas_station_64px.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_fuel_card.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\layout\\fuel_card.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_fuel.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\layout\\fragment_fuel.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\anim\\fade.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\layout\\fragment_home.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zuva.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable\\zuva.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logofacebook.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\logofacebook.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\layout\\activity_register.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_whirlpool_software_solutions_logo.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable\\whirlpool_software_solutions_logo.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_whirlpool_software_solutions_logo.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\whirlpool_software_solutions_logo.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gas_station_40px.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable\\gas_station_40px.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zuva.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\zuva.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header_register.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\header_register.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_page_64px.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable\\home_page_64px.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_local_gas_station.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable-v24\\ic_local_gas_station.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\menu_top_menu.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\menu\\top_menu.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_stations_list_fragment.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\layout\\stations_list_fragment.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout_rounded_down_64px.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\logout_rounded_down_64px.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logofacebook.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable\\logofacebook.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_payments_fragment.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\layout\\payments_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\circle.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_payments_fragment.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\layout\\payments_fragment.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_total.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable\\total.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\ic_add.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header_register.png.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\drawable\\header_register.png"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brief_64px.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\brief_64px.png"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_summary.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\src\\main\\res\\layout\\fragment_summary.xml"
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }
 ]
