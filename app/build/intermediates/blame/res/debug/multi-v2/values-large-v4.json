@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\DELLL\\AndroidStudioProjects\\FuelTrack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\DELLL\\.gradle\\caches\\transforms-2\\files-2.1\\50e1a42c4d2f81c3253d7497bd02187a\\material-1.2.0-alpha04\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\DELLL\\.gradle\\caches\\transforms-2\\files-2.1\\d62b6ff75c15f51cba9b4704038ae8c8\\material-1.2.0-alpha05\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\DELLL\\.gradle\\caches\\transforms-2\\files-2.1\\78d780e7e979f381c0cb40b5ded8691d\\appcompat-1.1.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\DELLL\\.gradle\\caches\\transforms-2\\files-2.1\\79003cfe0ac7b84105db61be787d1451\\appcompat-1.1.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

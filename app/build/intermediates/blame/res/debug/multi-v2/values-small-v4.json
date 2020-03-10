@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\DELLL\\AndroidStudioProjects\\FuelTrack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
+            "outputFile": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\FuelTrack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\DELLL\\.gradle\\caches\\transforms-2\\files-2.1\\50e1a42c4d2f81c3253d7497bd02187a\\material-1.2.0-alpha04\\res\\values-small-v4\\values-small-v4.xml",
+                    "source": "C:\\Users\\DELLL\\.gradle\\caches\\transforms-2\\files-2.1\\d62b6ff75c15f51cba9b4704038ae8c8\\material-1.2.0-alpha05\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

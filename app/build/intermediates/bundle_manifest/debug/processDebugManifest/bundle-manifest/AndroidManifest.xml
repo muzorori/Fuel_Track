@@ -32,15 +32,16 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.whirlpoolsoftwares.fueltrack.Dashboard"
-            android:label="@string/title_activity_dashboard" />
-        <activity android:name="com.whirlpoolsoftwares.fueltrack.Register" />
-        <activity android:name="com.whirlpoolsoftwares.fueltrack.Login" />
-        <activity android:name="com.whirlpoolsoftwares.fueltrack.MainActivity" >
+            android:label="@string/title_activity_dashboard" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name="com.whirlpoolsoftwares.fueltrack.Register" />
+        <activity android:name="com.whirlpoolsoftwares.fueltrack.Login" />
+        <activity android:name="com.whirlpoolsoftwares.fueltrack.MainActivity" >
         </activity>
 
         <meta-data
