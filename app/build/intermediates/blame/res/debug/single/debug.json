@@ -16,10 +16,6 @@
         "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\circletransparant.xml"
     },
     {
-        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
-        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\layout\\activity_register.xml"
-    },
-    {
         "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
@@ -38,6 +34,10 @@
     {
         "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_total.png.flat",
         "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\total.png"
+    },
+    {
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\gradient.xml"
     },
     {
         "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -102,6 +102,10 @@
     {
         "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
         "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_color.xml.flat",
+        "source": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\src\\main\\res\\drawable\\gradient_color.xml"
     },
     {
         "merged": "C:\\Users\\DELLL\\Desktop\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",

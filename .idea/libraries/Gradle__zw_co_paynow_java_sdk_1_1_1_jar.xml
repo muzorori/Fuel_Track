@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: zw.co.paynow:java-sdk:1.1.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/zw.co.paynow/java-sdk/1.1.1/9ffaa34c05d434757059e87223500fa58ee16990/java-sdk-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/zw.co.paynow/java-sdk/1.1.1/9b79f5f25763ca7863f391a0327109cd804ab80d/java-sdk-1.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/zw.co.paynow/java-sdk/1.1.1/e8a68f82ec3a68cfc175d0f44adc9b6782502e6b/java-sdk-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

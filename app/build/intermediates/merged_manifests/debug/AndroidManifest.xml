@@ -24,17 +24,17 @@
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
-        android:icon="@mipmap/ic_launcher"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/gas_station_40px"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:largeHeap="true"
+        android:roundIcon="@drawable/gas_station_40px"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.whirlpoolsoftwares.fueltrack.Dashboard"
             android:label="@string/title_activity_dashboard" >
         </activity>
-        <activity android:name="com.whirlpoolsoftwares.fueltrack.Register" />
         <activity android:name="com.whirlpoolsoftwares.fueltrack.Login" />
         <activity
             android:name="com.whirlpoolsoftwares.fueltrack.MainActivity"

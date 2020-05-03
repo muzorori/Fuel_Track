@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fuel"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_color">
+
+  <TextView
+      android:layout_margin="8dp"
+      android:id="@+id/textView"
+      android:layout_width="0dp"
+      android:layout_height="wrap_content"
+      android:layout_marginBottom="2dp"
+      android:baselineAligned="false"
+      android:gravity="center"
+      android:text="Online Fuel"
+      android:textColor="#ffffff"
+      android:textSize="22sp"
+      app:layout_constraintBottom_toTopOf="@+id/progress"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent" />
+
+  <LinearLayout
+      android:id="@+id/progress"
+      android:layout_width="247dp"
+      android:layout_height="56dp"
+      android:layout_marginStart="51dp"
+      android:layout_marginLeft="51dp"
+      android:layout_marginEnd="51dp"
+      android:layout_marginRight="51dp"
+      android:layout_marginBottom="61dp"
+      android:orientation="vertical"
+      app:layout_constraintBottom_toTopOf="@+id/fuel_options"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/textView">
+
+    <ProgressBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:indeterminate="true" />
+
+  </LinearLayout>
+
+  <androidx.recyclerview.widget.RecyclerView
+      android:id="@+id/fuel_options"
+      android:layout_width="0dp"
+      android:layout_height="0dp"
+      android:layout_marginStart="2dp"
+      android:layout_marginLeft="2dp"
+      android:layout_marginEnd="2dp"
+      android:layout_marginRight="2dp"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/progress" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

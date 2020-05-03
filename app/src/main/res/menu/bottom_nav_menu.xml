@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home_page_64px"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_fuel"
+        android:icon="@drawable/gas_station_64px"
+        android:title="@string/title_fuel" />
+
+    <item
+        android:id="@+id/navigation_summary"
+        android:icon="@drawable/brief_64px"
+        android:title="@string/title_summary" />
+
+</menu>
